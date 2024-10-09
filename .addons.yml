@@ -1,0 +1,6 @@
+channel: stable 
+addons:
+  teddycloud:
+    repository: mrueg/addon-teddycloud
+    target: teddycloud
+    image: ghcr.io/mrueg/teddycloud/{arch}
