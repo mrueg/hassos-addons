@@ -1,1 +1,1 @@
-**Full Changelog**: https://github.com/mrueg/addon-teddycloud/compare/v0.4.0...v0.4.1
+**Full Changelog**: https://github.com/mrueg/addon-teddycloud/compare/v0.4.1...v0.4.2
