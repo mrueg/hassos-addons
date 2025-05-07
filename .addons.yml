@@ -4,3 +4,7 @@ addons:
     repository: mrueg/addon-teddycloud
     target: teddycloud
     image: ghcr.io/mrueg/teddycloud/{arch}
+  standalone-chromium:
+    repository: mrueg/addon-standalone-chromium
+    target: standalone-chromium
+    image: ghcr.io/mrueg/standalone-chromium/{arch}
