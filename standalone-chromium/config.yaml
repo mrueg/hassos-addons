@@ -1,0 +1,23 @@
+name: Standalone Chromium
+version: 137.0.7151
+slug: standalone-chromium
+description: Chromium Standalone to run Selenium Webdriver remotely
+url: https://github.com/mrueg/addon-standalone-chromium
+ingress: true
+ingress_port: 4444
+ingress_entry: ui
+panel_icon: mdi:web
+startup: services
+image: ghcr.io/mrueg/standalone-chromium/{arch}
+arch:
+- aarch64
+- amd64
+init: false
+ports:
+  4444/tcp: null
+  7900/tcp: null
+ports_description:
+  4444/tcp: Remote Port for WebDriver
+  7900/tcp: NoVNC Port
+map:
+- addon_config:rw
