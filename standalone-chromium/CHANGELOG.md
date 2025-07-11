@@ -1,3 +1,5 @@
 ## What’s Changed
 
-* Pin exact version and use the first three version numbers as tag.
+* No changes
+
+**Full Changelog**: https://github.com/mrueg/addon-standalone-chromium/compare/v137.0.7151...v138.0.7204
