@@ -1,5 +1,1 @@
-## What’s Changed
-
-* No changes
-
-**Full Changelog**: https://github.com/mrueg/addon-standalone-chromium/compare/v138.0.7204...v139.0.7258
+**Full Changelog**: https://github.com/mrueg/addon-standalone-chromium/compare/v139.0.7258...v140.0.7339
