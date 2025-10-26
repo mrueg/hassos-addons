@@ -1,1 +1,5 @@
-**Full Changelog**: https://github.com/mrueg/addon-standalone-chromium/compare/v139.0.7258...v140.0.7339
+## What’s Changed
+
+Build with chromium 141
+
+**Full Changelog**: https://github.com/mrueg/addon-standalone-chromium/compare/v140.0.7339...v141.0.7390
