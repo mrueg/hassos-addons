@@ -1,5 +1,5 @@
 name: TeddyCloud
-version: 0.5.1
+version: 0.5.2
 slug: teddycloud
 description: An alternative server for your Toniebox
 url: https://github.com/mrueg/addon-teddycloud
@@ -22,3 +22,4 @@ ports_description:
   8443/tcp: TeddyCloud Web Interface (https)
 map:
 - addon_config:rw
+- share:rw
