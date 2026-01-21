@@ -1,9 +1,5 @@
 ## What’s Changed
 
-* Bump to chromium v143 (#3) @mrueg
+Bump to chromium 144
 
-## What's Changed
-* Bump to chromium v143 by @mrueg in https://github.com/mrueg/addon-standalone-chromium/pull/3
-
-
-**Full Changelog**: https://github.com/mrueg/addon-standalone-chromium/compare/v142.0.7444...v143.0.7499
+**Full Changelog**: https://github.com/mrueg/addon-standalone-chromium/compare/v143.0.7499...v144.0.7559
