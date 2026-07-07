@@ -1,5 +1,5 @@
 ## What’s Changed
 
-Fix file uploads
+* No changes
 
-**Full Changelog**: https://github.com/mrueg/addon-teddycloud/compare/v0.5.3...v0.5.4
+**Full Changelog**: https://github.com/mrueg/addon-teddycloud/compare/v0.5.5...v0.5.6
